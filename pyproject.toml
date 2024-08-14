@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "Recipe-Relay"
+version = "0.1"
+description = "recipe search web app"
+authors = ["Demarkus Taylor"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.2"
+psycopg2 = "^2.9.9"
+requests = "^2.32.3"
+streamlit = "^1.37.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

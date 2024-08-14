@@ -44,7 +44,7 @@ Recipe Relay uses spoonacular web api to pull recipes and various other info fro
 
 ## Development
 
-This a mostly just a fun practice project for myself so dont contribute lol, but if you do want to use it a reference or a base knock your self out
+This a mostly just a fun practice project for myself so dont contribute lol, but if you do want to use it as a reference or a base knock your self out
 
 ## License
 

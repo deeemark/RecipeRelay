@@ -14,7 +14,7 @@ use those to search for compatible recipes from which you can add ingredients to
 
 ## Tech
 
-Recipe relay uses a few technologies:
+Recipe relay uses python for the main programming langauge and a few other technologies:
 
 - [Pandas]
 - [Streamlit]
